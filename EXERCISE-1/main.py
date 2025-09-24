@@ -89,4 +89,4 @@ total_recorded_expense = sum(rec['value'] for rec in expense_records)
 print(f"\nTotal Value from Records: ${total_recorded_expense}")
 
 # === End of Project ===
-print(" Personal Expense Tracker Completed Successfully.")
+print("\n✅ Personal Expense Tracker Completed Successfully.")
